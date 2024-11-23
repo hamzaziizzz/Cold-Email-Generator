@@ -1,8 +1,9 @@
 streamlit~=1.40.1
+beautifulsoup4~=4.12.3
 langchain-community~=0.3.7
 langchain-groq~=0.2.1
 langchain-core~=0.3.20
 python-dotenv~=1.0.1
 pandas~=2.2.3
-faiss-cpu
-scikit-learn
+faiss-cpu~=1.9.0.post1
+scikit-learn~=1.5.2
