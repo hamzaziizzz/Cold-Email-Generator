@@ -603,7 +603,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.vectorstore/
 notebooks/
 
 # Spyder project settings
