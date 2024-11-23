@@ -42,7 +42,7 @@ The project utilizes the following technologies:
 - **Python**: Core programming language.
 - **Streamlit**: For the web-based user interface.
 - **LangChain**: For prompt engineering and LLM interactions.
-- **ChromaDB**: Vector database for efficient portfolio link matching.
+- **FAISS**: Vector database for efficient portfolio link matching.
 - **Groq**: For job description extraction and preprocessing.
 
 ---
@@ -98,10 +98,6 @@ Contributions are welcome! To contribute:
 
 If you encounter any issues, feel free to raise them [here](https://github.com/hamzaziizzz/Cold-Email-Generator/issues).
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## 📫 Contact
 
 For inquiries or support, reach out to [Hamza](https://github.com/hamzaziizzz) or open an issue in the repository.
@@ -109,7 +105,7 @@ For inquiries or support, reach out to [Hamza](https://github.com/hamzaziizzz) o
 ## 🌐 Live Demo
 
 If hosted, include a live demo link:
-[Demo Link](#)
+[Demo Link](https://cold-email-generation.streamlit.app/)
 
 ---
 
