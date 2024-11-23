@@ -100,11 +100,11 @@ If you encounter any issues, feel free to raise them [here](https://github.com/h
 
 ## 📫 Contact
 
-For inquiries or support, reach out to [Hamza](https://github.com/hamzaziizzz) or open an issue in the repository.
+For inquiries or support, reach out to [Hamza Aziz](https://github.com/hamzaziizzz) or open an issue in the repository.
 
 ## 🌐 Live Demo
 
-If hosted, include a live demo link:
+Live demo link:
 [Demo Link](https://cold-email-generation.streamlit.app/)
 
 ---
