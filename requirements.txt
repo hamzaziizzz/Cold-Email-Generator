@@ -1,5 +1,6 @@
 streamlit~=1.40.1
 langchain-community~=0.3.7
+langchain-groq~=0.2.1
 langchain-core~=0.3.20
 python-dotenv~=1.0.1
 pandas~=2.2.3
